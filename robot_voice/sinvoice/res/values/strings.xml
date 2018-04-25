@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SinVoiceDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="start_reg">Start reg</string>
+    <string name="stop_reg">Stop reg</string>
+    <string name="recognised_text">recognised text</string>
+    <string name="start_play">start play</string>
+    <string name="stop_play">stop play</string>
+    <string name="play_text">play text</string>
+
+
+
+
+
+
+
+
+
+</resources>

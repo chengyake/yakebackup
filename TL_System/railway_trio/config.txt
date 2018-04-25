@@ -1,0 +1,4 @@
+train_name : CRH380BJ-0301
+server_ip  : 61.237.239.183
+server_port: 55555
+

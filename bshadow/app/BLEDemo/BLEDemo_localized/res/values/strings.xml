@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_peripheral">Peripheral</string>
+    <string name="title_activity_hrdemo">HRDemoActivity</string>
+
+
+    <string name="display_HR_value">Simple Activity to display HR value</string>
+    <string name="Console">Console:</string>
+    <string name="Heart_Rate">Heart Rate:</string>
+    <string name="Peripheral">Peripheral:</string>
+    <string name="RSSI">RSSI:</string>
+    <string name="Address">Address:</string>
+    <string name="Status">Status:</string>
+    <string name="Disconnected">Disconnected:</string>
+    <string name="Name">Name:</string>
+    <string name="NULL"></string>
+    <string name="Service">Service:</string>
+    <string name="UUID">UUID:</string>
+    <string name="Characteristic">Characteristic:</string>
+    <string name="Data_Type">Data Type:</string>
+
+
+    <string name="ToggleButton">ToggleButton</string>
+    <string name="Read">Read</string>
+    <string name="Write">Write</string>
+    <string name="String">String:</string>
+    <string name="Decimal">Decimal:</string>
+    <string name="Updated">Updated:</string>
+
+    <string name="Properties">Properties:</string>
+
+    <string name="lt">&lt;</string>
+</resources>

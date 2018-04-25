@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+    <!-- lisence  -->
+    <LinearLayout
+        android:orientation="vertical"  
+        android:layout_width="fill_parent"  
+        android:layout_height="0dp"  
+        android:gravity="center"
+        android:layout_weight="1"
+    >
+
+            <LinearLayout
+                android:orientation="horizontal"  
+                android:layout_width="fill_parent"  
+                android:layout_height="wrap_content"  
+                android:gravity="center"
+                android:layout_marginBottom="10dp" 
+            >
+                <Button
+                    android:id="@+id/get_id"
+                    android:layout_width="80dp" 
+                    android:layout_height="40dp" 
+                    android:background="#ffffff"  
+                    android:text="@string/get_id"
+                    android:gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                />
+
+                <EditText
+                    android:id="@+id/device_id"
+                    android:background="#ffffff"  
+                    android:layout_width="fill_parent" 
+                    android:layout_height="40dp" 
+                    android:gravity="center"
+                    android:inputType="none" 
+                    android:textSize="20dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:hint="@string/device_id_hint"
+                />
+            </LinearLayout>  
+
+            <LinearLayout   
+                android:orientation="horizontal"  
+                android:layout_width="fill_parent"  
+                android:layout_height="wrap_content"  
+                android:gravity="center"
+            >
+                <Button
+                    android:id="@+id/check_lisence"
+                    android:layout_width="80dp" 
+                    android:layout_height="40dp" 
+                    android:background="#ffffff"  
+                    android:text="@string/check_lisence"
+                    android:gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                />
+
+                <EditText
+                    android:id="@+id/lisence"
+                    android:background="#ffffff"  
+                    android:layout_width="fill_parent" 
+                    android:layout_height="40dp" 
+                    android:gravity="center"
+                    android:textSize="20dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:hint="@string/lisence_hint"
+                />   
+            </LinearLayout>  
+    </LinearLayout>  
+
+
+    <!-- lisence  -->
+    <LinearLayout
+        android:orientation="vertical"  
+        android:layout_width="fill_parent"  
+        android:layout_height="0dp"  
+        android:layout_weight="1"
+        android:gravity="left"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+    >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            >
+        	<TextView
+        	    android:layout_width="wrap_content" 
+        	    android:layout_height="wrap_content" 
+                android:textSize="20dp"
+                android:gravity="center"
+        	    android:text="@string/pus"
+        	    />
+        	<TextView
+        		android:id="@+id/pusinfo"
+        	    android:layout_width="wrap_content" 
+        	    android:layout_height="wrap_content" 
+                android:textSize="20dp"
+                android:gravity="center"
+        	    />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            >
+        	<TextView
+        	    android:layout_width="wrap_content" 
+        	    android:layout_height="wrap_content" 
+                android:gravity="center"
+                android:textSize="20dp"
+        	    android:text="@string/pum"
+        	    />
+        	<TextView
+        		android:id="@+id/puminfo"
+        	    android:layout_width="wrap_content" 
+        	    android:layout_height="wrap_content" 
+                android:textSize="20dp"
+                android:gravity="center"
+        	    />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            >
+        	<TextView
+        	    android:layout_width="wrap_content" 
+        	    android:layout_height="wrap_content" 
+                android:textSize="20dp"
+                android:gravity="center"
+        	    android:text="@string/job"
+        	    />
+        	<TextView
+        		android:id="@+id/jobinfo"
+        	    android:layout_width="wrap_content" 
+        	    android:layout_height="wrap_content" 
+                android:textSize="20dp"
+                android:gravity="center"
+        	    />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            >
+        	<TextView
+        	    android:layout_width="wrap_content" 
+        	    android:layout_height="wrap_content" 
+                android:textSize="20dp"
+                android:gravity="center"
+        	    android:text="@string/jobdate"
+        	    />
+        	<TextView
+        		android:id="@+id/jobdatecontent"
+        	    android:layout_width="wrap_content" 
+        	    android:layout_height="wrap_content" 
+                android:textSize="20dp"
+                android:gravity="center"
+        	    />
+        </LinearLayout>
+
+        
+        <Button
+        	android:id="@+id/get_version"
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:gravity="center"
+            android:text="@string/get_version"
+            android:layout_marginTop="40dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
+
+
+

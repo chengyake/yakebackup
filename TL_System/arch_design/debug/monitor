@@ -1,0 +1,13 @@
+sleep 60
+/home/bin/core &
+sleep 3
+/home/bin/rild-0 &
+sleep 3
+/home/bin/Trio_trace_0 &
+sleep 3
+/home/bin/hal_Trio &
+sleep 3
+/home/bin/gps &
+sleep 3
+/home/bin/client &
+sleep 3

@@ -1,0 +1,133 @@
+发布时间：2017/4/9 14:18:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.8
+        支持lib脚本的最小core软件版本号：Luat_V0008_Air200
+        (1)net.lua：新增接口getmulticell，实时获取多基站信息
+        (2)update.lua：修改升级协议，包索引字段扩大为两个字节表示；http://www.luam2m.com/forum.php?mod=viewthread&tid=2397&page=1&extra=#pid6360中的升级协议已做同步修改
+
+
+
+发布时间：2017/4/7 12:01:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.7
+        支持lib脚本的最小core软件版本号：Luat_V0007_Air200
+        (1)audio.lua：修正“通话中正在播放TTS时，对方挂断电话后，后续再建立通话无法播放TTS”的问题
+        (2)record.lua：新增此文件，支持录音功能
+        (3)pins.lua：修正“PIN脚配置的valid为0时，初始化pin脚时的电平错误”的问题
+        (4)mqtt.lua：修正“无法解析payload内容为空的publish消息”的问题；支持中文字符
+        (5)common.lua：新增UTF8编码和GB2312、UCS2编码转换接口
+    二、demo脚本修改
+        (1)default项目：项目ID修改为22
+        (2)socket项目：完善注释
+        (3)xiaoman_gps_tracker\whole_test项目：删除linkapp.lua，直接使用lib中的socket.lua接口；修正sck.lua中的重连问题
+        (4)uart_at_transparent和uart_at_transparent_wdt项目：删除这两个项目。目前AT命令开发版本，已经独立出来
+        (5)record项目：新增此项目，测试录音功能
+        (6)mqtt项目：topic和payload中支持中文字符
+
+
+
+发布时间：2017/3/30 16:52:21
+修改记录：
+    一、demo脚本修改
+        (1)新增default项目：Air200的默认出厂软件，可以使用时间线APP查看模块的基站位置
+           从2017年3月31日起，Air200模块的默认出厂软件划分为两个版本，详见：http://www.luam2m.com/forum.php?mod=viewthread&tid=2504&page=1&extra=#pid6552
+
+
+
+发布时间：2017/3/28 19:54:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.6
+        支持lib脚本的最小core软件版本号：Luat_V0007_Air200
+        (1)sys.lua：扩展opentrace接口功能，通过设置第2个参数，用户可以配置uart1或者uart2输出Lua脚本的trace，默认波特率为115200
+                    注意：配置uart1或者uart2输出trace时，系统不会休眠，如果要求休眠，就不要配置uart输出trace
+        (2)cc.lua：支持通话中的DTMF检测功能
+        (3)audio.lua：支持通话中向对方播放TTS的功能
+    二、demo脚本修改
+        (1)cc项目：支持通话中的DTMF检测以及向对方播放TTS的功能
+
+
+
+发布时间：2017/3/22 19:05:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.5
+        支持lib脚本的最小core软件版本号：Luat_V0006_Air200
+        (1)ntp.lua：新增ntp功能模块，可同步网络时间。直接在main.lua中require"ntp"就可以使用打开此功能
+    二、demo脚本修改
+        (1)ntp项目：新增此项目，测试ntp功能模块
+	(2)json项目：新增此项目，测试json.encode和json.decode接口
+	(3)socket/short_connection项目：增加“发送数据后，延迟5秒钟断开与服务器的连接”的功能
+	(4)修正demo项目中“uart.setup接口调用时传入的最后一个参数msgmode为2”的编码错误问题
+
+
+
+发布时间：2017/3/21 16:08:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.4
+        支持lib脚本的最小core软件版本号：Luat_V0006_Air200
+        (1)mqtt.lua：新增接口configwill，支持WILL功能
+        (1)完善代码注释
+    二、demo脚本修改
+        (1)mqtt项目：支持configwill接口的使用
+
+
+
+发布时间：2017/3/21 10:10:21
+修改记录：
+    一、demo脚本修改
+        (1)socket/long_connection项目：修正“发送数据失败后，无法重连上后台”的问题
+        (2)socket/long_connection_transparent项目：修正“发送数据失败后，无法重连上后台”的问题
+        (3)socket/short_connection_flymode项目：优化代码
+
+
+
+发布时间：2017/3/17 13:47:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.3
+        支持lib脚本的最小core软件版本号：Luat_V0006_Air200
+        (1)sys.lua：支持lib脚本的最小core软件版本号：Luat_V0006_Air200
+    二、demo脚本修改
+        (1)uart_at_transparent项目：关闭UART1全PIN脚功能
+        (2)uart_at_transparent_wdt项目：关闭UART1全PIN脚功能
+
+
+
+发布时间：2017/3/16 00:13:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.2
+        支持lib脚本的最小core软件版本号：Luat_V0005_Air200
+        (1)audio.lua：mic增益默认设置为1级，用户如果需要监听功能调大mic增益，直接调用接口audio.setmicrophonegain(audio.MIC_VOL15)即可
+    二、demo脚本修改
+        (1)uart_at_transparent项目：UART1打开全PIN脚功能
+        (2)uart_at_transparent_wdt项目：UART1打开全PIN脚功能
+        (3)socket/long_connection项目：修正“发送失败后没有自动重连”的问题
+
+
+
+发布时间：2017/3/13 11:55:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.1
+        支持lib脚本的最小core软件版本号：Luat_V0003_Air200
+        (1)nvm.lua：修正“参数存储后，重启失效”的问题
+    二、demo脚本修改
+        (1)新增uart_at_transparent_wdt项目
+        (2)mqtt项目：调用mqttclient:connect时显示传入mqtt的保活时间
+        (3)xiaoman_gps_tracker/gps_test项目：增加gps定位接口和经纬度接口的使用例子
+
+
+
+发布时间：2017/3/9 17:55:21
+修改记录：
+    一、lib脚本修改
+        lib脚本版本号：2.0.0
+        支持lib脚本的最小core软件版本号：Luat_V0003_Air200
+        (1)优化所有功能模块的接口封装
+    二、demo脚本修改
+        (1)简化所有项目的使用方式

@@ -1,0 +1,1266 @@
+commit d1093c8fa6ca59bac9cd8ea1f2570464c015676a
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Aug 28 15:12:57 2017 +0800
+
+    add patch to rcats2 for countinues
+
+commit d649a9530ac35190560153aba57dd51ed0d0be92
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Apr 11 14:45:35 2017 +0800
+
+    modify prev patch debug
+
+commit 0a5e60288f9d5815095227dda7f176a33bfb0f02
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Apr 5 15:17:53 2017 +0800
+
+    upload config.txt
+
+commit 47d225833e941d61c6919794fca54c85663040a1
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Mar 28 14:55:28 2017 +0800
+
+    add gps interval timer for kflag
+
+commit 8f1904f0f4f64898241113f50fe02f24e4336491
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Mar 28 12:18:59 2017 +0800
+
+    add debug code
+
+commit cc60d4544a4a715c3d3ee6cc18ce90af061aa3da
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Mar 28 12:15:32 2017 +0800
+
+    add server ip and port to config.txt
+
+commit 4e2a0b75a2cf7fa78a17b91050449905f3563418
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Dec 23 14:17:14 2016 +0800
+
+    add env config doc
+
+commit ca5234d3b3f8051c9e114fe5431d7f6fced71a19
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Nov 29 11:34:31 2016 +0800
+
+    modify id 0 debug
+
+commit 035d4005787fdb040df51a349e1e9dd0b9a67660
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 28 15:40:27 2016 +0800
+
+    modify pppd.sh
+
+commit d06488dc587dd967e4c5d0b7b8283551d8eccbfd
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Nov 8 11:06:25 2016 +0800
+
+    patch for: add sync status ...
+
+commit 8fa3db53f4dd8c0658611fc3e28d610466676910
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Oct 31 12:14:51 2016 +0800
+
+    add docments about tax protocl
+
+commit 012ca311e84c1e17bad9e8317a1330f7392ba795
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Oct 31 11:31:06 2016 +0800
+
+    modify tax protocl
+
+commit 8f37469626584276e1c49f92f431f8a42c9f9805
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Oct 31 10:14:42 2016 +0800
+
+    patch to pre
+
+commit 1cfce7632ed82805b95fc9a7c83123722a2f2b20
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Oct 12 13:31:56 2016 +0800
+
+    set time function compile pass
+
+commit 6bb700141ecf9835fa9c3823025617ffd6384be7
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Oct 10 17:00:13 2016 +0800
+
+    add docment: udp protocl
+
+commit 6c46654df0293772972625de22a80a7d2096755f
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Oct 9 19:11:02 2016 +0800
+
+    add sync status for start task; compile pass ; need debug first
+
+commit 2dfe38e5287f68daae925c2a969956a884da5ec6
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Oct 9 17:45:38 2016 +0800
+
+    add set-time-frame protocl
+
+commit 6673c23ffa88401fd3c5cd31eaec7baa8d468f6f
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Oct 7 12:41:01 2016 +0800
+
+    patch to prev
+
+commit 9cc2e85f76e253583f39377bff6f853537597673
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Oct 5 20:43:28 2016 +0800
+
+    add 211 :compile pass, need double check
+
+commit 565632012e3d57b2bd3970478f7f941326ec6600
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Oct 5 19:14:46 2016 +0800
+
+    del write remote server by queue function
+
+commit 7295b911c53808ecc4b14495c1c942da747ca122
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Sep 18 13:23:50 2016 +0800
+
+    add docments
+
+commit 17045584db95c4bc5ee1c1f6ee219ebaf04ca87f
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Jul 26 17:29:46 2016 +0800
+
+    add advance.doc
+
+commit 3c74aadf9327b3d6baa4a5deb62c986d77a0c338
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Jul 22 10:07:36 2016 +0800
+
+    add config file for train name
+
+commit 64dcb45a77a46dab2d29858a21cc32a6cc15a4ee
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Jun 22 14:33:08 2016 +0800
+
+    add software update dia
+
+commit 6ba879c565284f5195e59295241a93765240aece
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Jun 22 13:18:41 2016 +0800
+
+    update docments for tky
+
+commit 9d84b8868258edf04d6fc4b442498c467ffba9c3
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Jun 21 15:51:58 2016 +0800
+
+    finaly commit for tky
+
+commit 76b535b845e0de46d216f92de787f131103a270b
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon May 23 15:12:31 2016 +0800
+
+    add for yangwei
+
+commit c0fb9723b8c4322d5cb27008abec9d5dcedb404f
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed May 18 10:54:35 2016 +0800
+
+    modify pppd.sh
+
+commit 1db960f879308f550e7da0a61e5b432012d84f17
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed May 18 10:21:46 2016 +0800
+
+    add for yangwei
+
+commit 5b326739d1a49b59bd46b71bf63a5e9981559e24
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue May 17 11:28:03 2016 +0800
+
+    add for yangwei
+
+commit d34c8bfa9b73fd1159e148a08500381c2c485c94
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon May 16 18:00:27 2016 +0800
+
+    modify repeat task report and action
+
+commit 4fd2762f8032edaa9a7bc5e21c46c12753ed9f54
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon May 16 14:17:39 2016 +0800
+
+    add for yangwei
+
+commit 492c0489bfb918c2c516d146bb4dedf2754b7407
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon May 9 15:38:51 2016 +0800
+
+    modify pppd.sh for netclient sync time
+
+commit c20ab5405192705fda15d1c221b9c49582da7699
+Merge: 4d4bdcd db3e0b1
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon May 9 15:20:06 2016 +0800
+
+    Merge branch 'master' of github.com:chengyake/trainlog_system
+
+commit db3e0b11bc21c16507935066ae87b56060f58475
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon May 9 15:17:32 2016 +0800
+
+    add ntpclient for sync time
+
+commit 4d4bdcd4c86dd34e6230348ed05c2d4ce5e0f06e
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon May 9 12:51:29 2016 +0800
+
+    modify pppd.sh
+
+commit f0fe3ec9a5fefc68b710f0a546402b4e3d1e5b39
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed May 4 19:23:38 2016 +0800
+
+    add uart led for gps process
+
+commit b5950d9734089bc935d79d2520d8a32f6b50a458
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed May 4 11:21:27 2016 +0800
+
+    patch to mgka
+
+commit abfcb5fa961dc2ddb3d1d07a0e1f57fe335a16eb
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed May 4 10:59:38 2016 +0800
+
+    modify gps kmposition algo
+
+commit 18947c6c2d1218531c71f3d2fb6d5bf51cf579f0
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed May 4 10:58:56 2016 +0800
+
+    add pppd.sh reboot policy
+
+commit 3805ad34a443f036532f9f9c97eae6711c7c012a
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue May 3 19:09:29 2016 +0800
+
+    yangwei modify
+
+commit 9058cd75200c64e960aacb13c3aadacbebd9e218
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue May 3 14:03:23 2016 +0800
+
+    add policy for loss report frame
+
+commit 4dd3a0fa751328376feb4b844dfdd121131e8c04
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue May 3 14:02:30 2016 +0800
+
+    modify gps protocl for tky
+
+commit f4367c0d410a8e415feb9c47ba4d786c757a1ffa
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Apr 22 14:05:59 2016 +0800
+
+    delete gps checksum by duan
+
+commit ee174181cc317bcecd0fdafd625c6efdf0d71b03
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Mar 21 15:05:11 2016 +0800
+
+    modify Trio log low level yangwei
+
+commit afb58bf6b549979f39b4d7dc05c8b13ca37ea08d
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Feb 4 13:45:49 2016 +0800
+
+    yangwei add
+
+commit cd6c26d1e3c1037aea0797c6b75dc12a19d4655e
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Feb 4 13:22:50 2016 +0800
+
+    patch to upload order when reboot
+
+commit 95e4c6df046e37cc91454fd686ecf012f9c74cc3
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Feb 1 11:27:08 2016 +0800
+
+    add socket keep alive
+
+commit cfdcb00e20cb441cc02c990c46b99f4d0165518a
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Jan 29 15:40:47 2016 +0800
+
+    resurve tele no carriy
+
+commit 99845b60353bd76a954e03469149494a68f9864a
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Jan 29 10:51:24 2016 +0800
+
+    modify problem: status error when auto-stop&net-down
+
+commit 0f0704a395c1ac1ff392106dce9510506e6131b6
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Jan 27 23:20:44 2016 +0800
+
+    patch to hungup when trace off
+
+commit 077f76a1832431c59df903904c50965b60c95548
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Jan 25 17:20:18 2016 +0800
+
+    yw delete chinese char
+
+commit 2e5fa8db11d01ee13bc0d1328952acf46c6e1814
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Jan 25 16:19:59 2016 +0800
+
+    delate chinese char
+
+commit cb2c285c56fcc4c9396b58736d5f2253369ccc0d
+Author: chengyake <chengyake2008@163.com>
+Date:   Sat Jan 23 17:43:23 2016 +0800
+
+    add thread detach and modify patch to dial timeout
+
+commit 9ae1bc6f582c496f43f249aaf21fc5cc39c30fbc
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Jan 21 20:58:45 2016 +0800
+
+    add yangwei patch to max access
+
+commit f419a07f55f2ad8c6e87f9efefa593113c9ebb5d
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Jan 15 17:11:38 2016 +0800
+
+    modify remote server ip and port
+
+commit b4d727fbf2d7df8b163589bc00fbd725621a1e0e
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Jan 15 13:31:43 2016 +0800
+
+    add max access interval time
+
+commit e9409015df718dd85466a4802d4c4442da35f433
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Jan 13 19:14:32 2016 +0800
+
+    patch to trace_off and tele order
+
+commit a1f0e163125170e81c5dd3d5773f5bba2d33c136
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Jan 13 17:50:59 2016 +0800
+
+    reserve yangwei commit
+
+commit 3108ccbc6edb76298e2224692909a93ec65d65d9
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Jan 13 15:31:16 2016 +0800
+
+    modify status comminucation and yangwei dial delay
+
+commit e57b2f5501db91ca706f32d3a1bb39e9421453ab
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Jan 12 17:14:56 2016 +0800
+
+    add delay between dial
+
+commit 83bd75725e4df0eebd1d4788dcd1a39bd97f9a0d
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Jan 11 14:14:13 2016 +0800
+
+    modify state machine and version
+
+commit dbee1b4488117051c82627ff9efa358804808c2d
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Jan 6 11:18:29 2016 +0800
+
+    open close test
+
+commit 67dc5b4a85a2cb191f1e3b292659edee71978381
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Dec 22 17:39:20 2015 +0800
+
+    open/close debug: open file error
+
+commit 36014970c6bc6bbb32c06ed2ab974f17afef25e6
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Dec 22 17:22:36 2015 +0800
+
+    add usb check status
+
+commit 08adefa65e6a18738d131e3d977a4d85212c5b2c
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Dec 22 16:55:36 2015 +0800
+
+    add:check_store_size and try to open gsmr more times
+
+commit 1d8129fdbf60af9716955171a481ae0e127c8779
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Dec 4 15:12:15 2015 +0800
+
+    modify SIGQUIT->SIGKILL
+
+commit 52346dfc37e395d33086ac9c3ef9f1485efb4397
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Dec 3 19:50:52 2015 +0800
+
+    modify system status report
+
+commit 4be3fefa52cb820ae318c4b2fb4a1e695f7974fb
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Dec 3 15:25:30 2015 +0800
+
+    patch to prov
+
+commit d084acf4586d3e447c58273f87b7b1751043df81
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Dec 3 15:21:37 2015 +0800
+
+    add some log for debug upload goon and re-connect to server after server reboot
+
+commit 75a6ce72e69196359541f72b3babe9e066644925
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Dec 2 17:34:22 2015 +0800
+
+    modify time to zone 0 && modify status code 207->209
+
+commit 01fa9a4d0970a21e45d4b76b2e4f23ea39438f6b
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Dec 2 15:19:51 2015 +0800
+
+    add version info to syslog
+
+commit 1503b8a1b91206db98db53a6042c59408abab61a
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Dec 2 13:31:02 2015 +0800
+
+    modify cmd queue for idx==0
+
+commit f89d706caf9a9ee7dc5e1b346322653ed6a97f17
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Dec 2 12:37:29 2015 +0800
+
+    in case of broken cmd database
+
+commit cee8b08f791acbec0b2846ce151540ad4ee9e569
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Dec 1 19:09:09 2015 +0800
+
+    modify at, commit for yangwe
+
+commit eb0e9e23be8c338e9736f26c2f10c1b704ae8baf
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Nov 25 10:24:33 2015 +0800
+
+    modify bug: no data of handover by yw
+
+commit cb4a28c8eeab60b8e80016fc86a81f35ddccef79
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Nov 25 10:24:19 2015 +0800
+
+    modify bug: no data of handover by yw
+
+commit 757df469e83b468ca31782abcf10a500095c9019
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 23 16:14:05 2015 +0800
+
+    modify upload muitil-file, only sigle file one time && add action error code
+
+commit 28a81b5a1a8e3932f51faceb926144e756232408
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 23 13:55:37 2015 +0800
+
+    modify gps log level to debug
+
+commit 3fc37010a54cf37018208619ed0d012bc9e144dd
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 23 13:53:58 2015 +0800
+
+    modify by yangwei
+
+commit b68a634b1ccf4b77cdabf8494e46f79a5dc75d7f
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 23 13:51:48 2015 +0800
+
+    debug by yangwei
+
+commit fd35e88ab43c5be8f1c4b29f0fe03e6b45769e74
+Author: chengyake <chengyake2008@163.com>
+Date:   Sat Nov 21 09:46:48 2015 +0800
+
+    add ppp chat scripts
+
+commit 5915d8e8ccb3f1df5f12bf6cc4eeb4b1d8800e31
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Nov 20 17:17:22 2015 +0800
+
+    modify gps log
+
+commit f17498cb0551261b61f4022ca9a5bd7900ffc1f5
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Nov 20 16:51:38 2015 +0800
+
+    add gps frame filter && yangwei modify timezone and so on
+
+commit d48efb84416af9de30aa100f86bbd84240fcc8aa
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Nov 19 15:47:06 2015 +0800
+
+    add gps operate handler in core
+
+commit dc7b3d53e96528b9fbead29ac9dbe30526214d3d
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Nov 19 14:11:03 2015 +0800
+
+    delete some log which flash screen : commitor yangwei
+
+commit 4074588cc29ecc24938a36bb9a71837c2cb3f997
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Nov 19 13:38:52 2015 +0800
+
+    patch to: modify level1 gsmr data for yangwei
+
+commit 221abaece33a80ede49c83355c9331f8461b233c
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Nov 19 13:34:43 2015 +0800
+
+    modify bug: can't start test task after hardware reset
+
+commit 79a0378170e71e608ad2f4d7d6d2438de46f0419
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Nov 19 13:33:11 2015 +0800
+
+    modify level1 gsmr data for yangwei
+
+commit c790d7bbef3ab1d03576a8644fa6f2e9c28a5169
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Nov 18 15:51:54 2015 +0800
+
+    modify time zone in trio hal && delete some log
+
+commit f7ca97cbb81f0395934c1fe99b3ca82a5d6aee27
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Nov 18 14:49:15 2015 +0800
+
+    add upload fault tolerant when task error
+
+commit 16a7ce53752917b5ea86a953041ff530c46f1cac
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Nov 18 13:06:48 2015 +0800
+
+    modify pppd.sh  loop check timeout
+
+commit 430441ce2c698f6cdfbacb4c92e78c731503d7f7
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Nov 18 12:53:11 2015 +0800
+
+    modify Trio log: simple log output
+
+commit d5660ba6330054573ed782c8a64ae23b7fd04ace
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Nov 17 12:55:42 2015 +0800
+
+    modify syslog: setup 3 level log
+
+commit 92da856a39f930db51ff3c781c5e80b96bd5fb8e
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Nov 15 23:02:33 2015 +0800
+
+    modify some bug at tky egongfu
+
+commit 7c09f784dfb779b94cb28dda46d2f8448bd19705
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 9 22:48:07 2015 +0800
+
+    modify for freescale board v2 , to tky
+
+commit d46c25b9891d5e8ba6da9550c76dff1d478900db
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 9 22:09:06 2015 +0800
+
+    for freescale board version of shenzhen
+
+commit 11732fb273335af44148656ab599090a177a1e53
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 9 14:33:10 2015 +0800
+
+    add debug code for gps
+
+commit 73bb7f3d0348a740ed54c006b373148309163b07
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 9 11:22:45 2015 +0800
+
+    modify gps log for debug
+
+commit 226244633346565b795c968ab451e6ee9696be2e
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Nov 9 10:51:28 2015 +0800
+
+    modify gps log for debug
+
+commit eda46d6b7c023313887e6989ccd00b8513c311c5
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Nov 6 21:49:53 2015 +0800
+
+    create new branch
+
+commit abc05e1dfa8d0b4b10a13b93b43e13759c31b982
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Nov 6 21:18:15 2015 +0800
+
+    add yangwei code
+
+commit 65783436de46ea9d355eacff234461af3151605a
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Oct 20 19:41:47 2015 +0800
+
+    clean some dir
+
+commit 82844d458aa8e6dcf521c57bebed3fc38d6f34c2
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Oct 20 19:38:16 2015 +0800
+
+    ================TI version==============
+
+commit 5bda12724df94c0c536b1fd17de5877634951285
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Oct 16 19:03:28 2015 +0800
+
+    update docments
+
+commit d34b882a2e56887e812ac7c2aca70cd374fdf2b0
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Oct 16 15:44:48 2015 +0800
+
+    update docments
+
+commit e815b8a8c049c7d6ffc9a4ad1b41ac00c4aeffd0
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Oct 9 20:16:42 2015 +0800
+
+    ----update yangwei code----
+
+commit 53d7ff88cf3a4c39cc8a18f0d00f96d98fcb2084
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Sep 25 23:04:26 2015 +0800
+
+    debug gps : modify some logs
+
+commit 123106f33885543d1456f3c6cea16d7e7130fffd
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Sep 24 22:53:37 2015 +0800
+
+    modify yangwei code makefile
+
+commit dc8cd763b7e2879548c3416a1673f7a45f84daf5
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Sep 24 19:21:57 2015 +0800
+
+    --------add yangwei version-------
+
+commit d01b92d84979361ad37371d7d4e1f0c010da176b
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Sep 21 19:20:27 2015 +0800
+
+    add header file for heart beats
+
+commit 25bdc0855c914460941c2f6459903402dc42f9bb
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Sep 21 18:03:19 2015 +0800
+
+    add network states heart beat
+
+commit 910a72869d42e6cb08b53dea24d8b723d34f5044
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Sep 16 13:36:18 2015 +0800
+
+    modify select timeout loop function
+
+commit de54e341dbb430bd36095cc263e03c5aa238d002
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Sep 10 22:52:11 2015 +0800
+
+    fix bug: modify no trace first setup trace_0
+
+commit f843d4115ca63a5f76f1722e40a795bbf8ef6e31
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Sep 9 23:08:35 2015 +0800
+
+    debug all union
+
+commit 249ec521303a421baae47b45bdb3cbf464511429
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Sep 9 22:56:53 2015 +0800
+
+    debug all union
+
+commit 5e20f9583a53d3ecd521537b044c5809b8f3d58f
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Sep 9 14:32:04 2015 +0800
+
+    add pppd manager
+
+commit 1511ccdbbaea9dd361609223e08fb1e079f58a0a
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Sep 6 22:56:13 2015 +0800
+
+    add modify for monitor and makefile
+
+commit 673063bbca06c1e0f53f96867725a0c1c5017fca
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Sep 6 20:23:37 2015 +0800
+
+    pppd dial chat script
+
+commit f6a8f590dff02ffe3d5593064d534d73722eb3fc
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Sep 6 20:13:48 2015 +0800
+
+    add yangwei version 2
+
+commit 4ad02aa95a85f2baa4b5bc41638e1b843bd91db2
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Sep 2 17:44:29 2015 +0800
+
+    modify core for close fd when error
+
+commit 41d6e1861d30a49acc7e4f024c4b83e2098e3d41
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Aug 31 08:33:40 2015 +0800
+
+    union debug gps at tiekeyuan
+
+commit 81554db679134a456cc0f00b0b6bedefce6c1d6b
+Author: chengyake <chengyake2008@163.com>
+Date:   Sat Aug 29 01:23:38 2015 +0800
+
+    modify gps data
+
+commit 31cc08708803b274733be0489489a57326834ad5
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Aug 28 18:55:37 2015 +0800
+
+    debug code : modify tele short call switch
+
+commit 2b55c29a5df0846085bb154aec88bb8b49905399
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Aug 27 23:35:29 2015 +0800
+
+    ----------union debug----------
+
+commit 1a987152eb3a349889febf7a56e8fbc1eedd3dc0
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Aug 26 23:48:04 2015 +0800
+
+    modify upload finish condition
+
+commit 32ce328c13dcb17dd684fc6233348ab4a4c4d8af
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Aug 26 16:37:18 2015 +0800
+
+    add ret: return to remote server when communication failed
+
+commit 1e08f0712998a6cb8f48bd24467a1939877bcbd2
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Aug 26 14:59:18 2015 +0800
+
+    add status update and report func but gprs
+
+commit 22e3a2b058d4169ad6d2716f2c50cdfad2ec9d65
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Aug 25 16:20:17 2015 +0800
+
+    modify log print buffer size
+
+commit 78542535330ba819c1c23bb87dbe99468e9c0dea
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Aug 24 22:11:25 2015 +0800
+
+    modify log stdin-->syslog fmt, and tele_state
+
+commit 883ccde2d48f044828d4c326385a2d21c5af474a
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 24 16:29:16 2015 +0800
+
+    update problem record
+
+commit 20c9efd4fdac7128da8ba9e6c4a5b54cd786c65d
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 24 16:25:58 2015 +0800
+
+    add logic which depends on yangwei rild-hal
+
+commit 5d78470637dc48920844f70d58d98898b0442def
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 24 15:50:31 2015 +0800
+
+    add virtural remote server with upload function
+
+commit 44756dd316699cf09a285c975e21a46c7447ead3
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 24 14:04:20 2015 +0800
+
+    add error process when *p = NULL
+
+commit 5ac52a2caddef8b0d1d3c1b498b207755f5d421e
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 24 13:54:24 2015 +0800
+
+    delete some log that write to stdout
+
+commit 73b5ab62415d476dfaff65dde29f7e575c105177
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 24 13:15:45 2015 +0800
+
+    just compile pass: add task cfg data and modify upload over flag
+
+commit 9c3c058dfe4c2559d2668e26cbf1eb14e5c59a96
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Aug 23 23:42:50 2015 +0800
+
+    debug can't compile
+
+commit 410f45fb81f73ece9866e2ab0d911efa10b770c0
+Author: chengyake <chengyake2008@163.com>
+Date:   Sat Aug 22 17:14:36 2015 +0800
+
+    union debug: modify log and tty port and gps
+
+commit e84c13abb8eb6d7931e543cbb79bba30d3dd61d0
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Aug 21 16:42:48 2015 +0800
+
+    delete some old file
+
+commit a3379fef7818e73d5fafd8a85694c7d6c312edd3
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Aug 21 16:38:28 2015 +0800
+
+    just modify some log: printf -> syslog
+
+commit 1de3a4614eed73d5da562152084957ef7a41e0be
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Aug 21 15:21:44 2015 +0800
+
+    modify gps v1
+
+commit 495ae3f7518190417c974c1ca2b69331697896e4
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Aug 20 15:20:20 2015 +0800
+
+    add gps: pppd dial option
+
+commit 91a10a78d94b196e5388c9e68ad6b36c6085c4ea
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Aug 19 19:15:35 2015 +0800
+
+    modify gps struct uint32_t -> uint64_t
+
+commit 72146c58e430503f4e83614c1d2c5ff8b1be9930
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Aug 19 18:46:06 2015 +0800
+
+    add gps info to client
+
+commit e067904f5900868ede158aa980b29427e07532d1
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Aug 19 16:55:31 2015 +0800
+
+    add gps compile pass, but need test in board
+
+commit 7b922c1478067b303015c937822e2cbb600ead94
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Aug 18 19:23:05 2015 +0800
+
+    add gps half code
+
+commit 40b1c2b803b8518f665d5058384a0c80d0a0a3e9
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Aug 18 15:22:48 2015 +0800
+
+    add yangwei code: rild0 rild1 trace hal
+
+commit 4f3f5c7b1c81373c40375bb91f2aa0d4282f74f9
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Aug 18 14:35:11 2015 +0800
+
+    add monitor: local compile pass
+
+commit 4bcf584dde535abe96ae114cc262455b1eb11e78
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Aug 18 11:25:11 2015 +0800
+
+    add monitor: debug monitor
+
+commit 20aff60141f05e4ff2a2e7f3084a7ace89cb23fd
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 17 19:19:13 2015 +0800
+
+    modify code arch
+
+commit 66d6d2af3e33ed5f732a6f5e21d6137824c947de
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 17 19:12:50 2015 +0800
+
+    add monitor v0.9
+
+commit 2d5e604b4fc60f863cf192063f8be88b46bbc5ff
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Aug 16 19:53:55 2015 +0800
+
+    add client : debug with yangwei
+
+commit 687c3249462f3c9a728f131047bbd869e2bbb90c
+Author: chengyake <chengyake2008@163.com>
+Date:   Sat Aug 15 23:59:11 2015 +0800
+
+    add client remote server
+
+commit eff49ee74896bf8a3acea2f34ea13f81bccba031
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Aug 14 20:36:42 2015 +0800
+
+    add client v5
+
+commit b210c0c395138a054f545bea996f7f6221336d16
+Author: chengyake <chengyake2008@163.com>
+Date:   Thu Aug 13 00:30:52 2015 +0800
+
+    debug client 3
+
+commit 780acc116d34a72851e11692a322a242a3532b5e
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Aug 12 18:47:37 2015 +0800
+
+    debug client 2
+
+commit b7338d079e6bc002b6c8d2c58a41fa76ecf037a6
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Aug 11 23:08:49 2015 +0800
+
+    debug client half
+
+commit 58822d10d828883309332c6c1d62e79e11078d4c
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Aug 11 09:58:39 2015 +0800
+
+    add client
+
+commit 59462ce0a9a975dff5b3cfeebf26ad286fd7b791
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Aug 10 02:57:13 2015 +0800
+
+    debug upload self
+
+commit da5566a9969b1e28056728195142b80ced2c4213
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Aug 7 17:01:40 2015 +0800
+
+    add TDataBase.db for debug at weekend
+
+commit 2fb9b4eaf7b5b012c7665cb3b42e36b6d5c84df0
+Author: chengyake <chengyake2008@163.com>
+Date:   Fri Aug 7 15:03:53 2015 +0800
+
+    add before union debug with yangwei
+
+commit 1f16fc213eb62ee29013206b2372ca51ae26660f
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Aug 6 19:50:56 2015 +0800
+
+    add upload file function
+
+commit 0716f349530b288267870322160dc60ccb42e99c
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Aug 5 17:35:26 2015 +0800
+
+    ----------------union debug success first-------------------
+
+commit 022b06ce7b528d35b41348b28c6efc13e43ae460
+Author: chengyake <chengyake2008@163.com>
+Date:   Wed Aug 5 09:32:57 2015 +0800
+
+    union debug with yw
+
+commit dd32611e1e5feeaa0e7c33668f32dfe5e71c25a5
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue Aug 4 20:23:22 2015 +0800
+
+    union debug task pass
+
+commit ce42dd1adad6d4abb5cac4232b2d79d199841872
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 3 19:27:49 2015 +0800
+
+    add client v10
+
+commit 8dab773d5f17cea9bbeaf721838b6551574953c8
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Aug 3 15:12:10 2015 +0800
+
+    add client v9 compile pass
+
+commit 97066e2227c3cdb4a1e8234d1cfef634e0f6214a
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Aug 2 23:19:03 2015 +0800
+
+    add client v7
+
+commit f7d34730af0a1d2c402ef4b091f4d253e3262344
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Jul 31 17:07:29 2015 +0800
+
+    add client v7
+
+commit f2347fa2b2b5a28827383711b4b8f744bf222b01
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Jul 29 19:22:17 2015 +0800
+
+    add client v6
+
+commit db9bbe1fceda85f9f5559f11f5bfed370a2413db
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Jul 28 19:07:53 2015 +0800
+
+    add client v5
+
+commit 29ac16032602c2b8828ca6d82bd26acba9ce7b9e
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Jul 27 19:20:23 2015 +0800
+
+    add client v4
+
+commit 9060b271079c2282d067f9436b064ab13fb0b9ed
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Sun Jul 26 15:15:57 2015 +0800
+
+    modify client v3
+
+commit 5746020ef966af400def55ac1e426e71855201a2
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Sun Jul 26 15:15:40 2015 +0800
+
+    modify client v2
+
+commit 7ec35d686667b845afe97f3e91724e79281a1721
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Sun Jul 26 13:05:12 2015 +0800
+
+    modify client half
+
+commit 11036202874815df86dafc8d2110e9020c77a781
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jul 23 18:44:09 2015 +0800
+
+    add test code
+
+commit 689aa76b3223ad3a46729a0334c7822529fc6d53
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jul 23 15:22:45 2015 +0800
+
+    debug last
+
+commit 3cce0da8e3c905de19e31335ec513af2f1916730
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jul 9 18:03:20 2015 +0800
+
+    add makefile && add gps first for debug
+
+commit 4cc103f617aa3762b498bb6a46443046b14a9282
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Jul 6 16:23:27 2015 +0800
+
+    union debug with yanggong over
+
+commit 1b3177200617da182a597971cbe6c95a1a5f57bd
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Sat Jul 4 15:15:36 2015 +0800
+
+    debug client union -- send test task
+
+commit 65986c464bf9780bff913686a2752637cf3b9a59
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Jul 3 19:02:01 2015 +0800
+
+    union debug 1
+
+commit 5f39f2a8780ca74df7f63c8b5a36ec5f377a9a57
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jul 2 19:58:26 2015 +0800
+
+    prepare for union debug test
+
+commit c7f1d2a49ab072b7af17a156e249bab5b88819e2
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jul 2 14:33:10 2015 +0800
+
+    before union debug communication
+
+commit e5a358febc470c618e8a68c343521104ac4502ce
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Jul 1 19:41:07 2015 +0800
+
+    debug client by virtual server
+
+commit f37635454c60fd3d459d74c8408af1224c5bea67
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Jun 29 19:58:01 2015 +0800
+
+    add virtual server for debug
+
+commit 77d837e0194288799d6b7d106a1740d21f4a009f
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Jun 29 19:57:25 2015 +0800
+
+    add virtual server for debug
+
+commit f1a8cae48d3d3ec5db282b0a7d8db59af4a7eb99
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Jun 29 14:17:39 2015 +0800
+
+    debug compile client pass but don't work
+
+commit 54d9fbbc778c86c28c1d92f0a2b829994ee0b7a8
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Jun 26 17:25:18 2015 +0800
+
+    debug all module begin
+
+commit 6ce05b8f3cd9bc11c81f9f1126956afe4ac04b4b
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jun 25 19:35:02 2015 +0800
+
+    debug client & debug_and_misc_compile no error
+
+commit 4bda5a94d31963b3800e06ddb3efca0e419fe8ef
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Jun 24 19:49:53 2015 +0800
+
+    debug client: remote & local
+
+commit 9d7772913dd9e1dcf46115fe506e35ea48a6b365
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Jun 23 19:19:19 2015 +0800
+
+    debug client
+
+commit 97cda0e122ed56d4817a5c37373ed0ea9c715242
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Jun 22 17:23:45 2015 +0800
+
+    backup ril_test3.c
+
+commit 8e00d01c51c4df0a747e7bc76e6c232d83621a39
+Author: chengyake <chengyake2008@163.com>
+Date:   Mon Jun 22 00:01:09 2015 +0800
+
+    debug
+
+commit c7ff9c8114c19562a8263fde01d867c4c059112d
+Author: chengyake <chengyake2008@163.com>
+Date:   Sun Jun 21 23:26:18 2015 +0800
+
+    add core: just for debug
+
+commit ecb046f9b6cf01bc762bc1a4dd913ee23695e12f
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Jun 19 19:31:26 2015 +0800
+
+    add client: communication register success
+
+commit d686f87e8b8d7e70b29a6010e7ea8e5ee7dbb7b2
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jun 18 19:52:53 2015 +0800
+
+    just for debug backup
+
+commit bd0f51c43f904b61106bc6fc6da489e77d94a7c0
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Jun 17 19:30:30 2015 +0800
+
+    add client: half, attach remote server only
+
+commit bc1b28d026180a6e92e9758f10e57f7df505c2b8
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Jun 16 19:13:41 2015 +0800
+
+    add debug : debug half
+
+commit 4c6e4fb27a128c1a9b6a121df12b3e4098cdf7ad
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Mon Jun 15 18:07:56 2015 +0800
+
+    add core: debug core half
+
+commit 189b56721701d11f92a738238016033c7f5394d4
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Jun 12 19:40:08 2015 +0800
+
+    add core half debug
+
+commit 1734891d09d6c149a542012ce7436e7c39709a8d
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Fri Jun 12 14:28:10 2015 +0800
+
+    add misc: all basic code
+
+commit 8909a01a1203b83b78468a79519a20e1766b6d69
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jun 11 18:51:43 2015 +0800
+
+    add misc
+
+commit 64550ff7118371f1c577303a3bd20e91ae442654
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Thu Jun 11 13:38:15 2015 +0800
+
+    add client: client.h
+
+commit 4f61b43fee32909b33ca428750b710bc74a3f0a9
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Jun 9 17:50:04 2015 +0800
+
+    union debug: monitor/core/misc/debug
+
+commit 7d08236a5134f016be576f0254c99461a0d4e08a
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Jun 3 19:45:37 2015 +0800
+
+    add misc: uncomplate
+
+commit 8e5729b514d9b659c22a5138a01cba06a261a5c6
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Wed Jun 3 17:33:38 2015 +0800
+
+    add framework core: socket server loop
+
+commit 084c5a4996b464cee3a5d9f88fda84c174288f1d
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Jun 2 19:38:57 2015 +0800
+
+    add framework core
+
+commit 14b07882636a338f12ca3d3253fa387726585044
+Author: chengyake <chengyake@lonshinetech.com>
+Date:   Tue Jun 2 11:31:58 2015 +0800
+
+    add ARCH && debug module
+
+commit bebd253ac029e08409520c20838f27bd2dd2c522
+Author: chengyake <chengyake2008@163.com>
+Date:   Sat May 30 23:41:11 2015 +0800
+
+    add system structure
+
+commit 10058b9b5d46a71b3b4e974f219ebcb7387bc26d
+Author: chengyake <chengyake2008@163.com>
+Date:   Tue May 26 22:50:43 2015 +0800
+
+    setup system arch
+
+commit 892fac6331c0360051d7dc4585ea05340ec399d3
+Author: Yake.Cheng <chengyake2008@163.com>
+Date:   Tue May 26 22:32:50 2015 +0800
+
+    Initial commit

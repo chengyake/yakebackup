@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/bgc"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+        <Button
+	        android:id="@+id/back"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginLeft="5dip" 
+            android:layout_marginRight="5dip" 
+            android:layout_marginTop="10dip" 
+            android:layout_marginBottom="10dip" 
+            android:text="@string/back"
+            android:textSize="17sp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_bg_null"
+        />
+        <Button
+	        android:id="@+id/help"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginLeft="5dip" 
+            android:layout_marginRight="5dip" 
+            android:layout_marginTop="10dip" 
+            android:layout_marginBottom="10dip" 
+            android:text="@string/help"
+            android:textSize="17sp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_bg_null"
+        />
+
+
+        <ImageView 
+        	android:id="@+id/login_logo"
+            android:layout_below="@id/back"
+            android:background="@color/transparent"
+            android:tint="@color/white"
+            android:src="@drawable/bike"  
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dip" 
+            android:layout_marginBottom="20dip" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content">
+        </ImageView> 
+
+        <com.android.jni.Graphic
+            android:layout_below="@id/login_logo"
+            android:layout_width="400dip" 
+            android:layout_height="400dip" 
+            android:layout_marginLeft="11dip"
+            android:layout_marginRight="11dip"
+            android:layout_marginTop="20dip" 
+            android:layout_marginBottom="20dip" 
+        />
+
+</RelativeLayout>
+

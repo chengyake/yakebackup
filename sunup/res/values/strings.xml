@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Console</string>
+    <string name="commit">Commit</string>
+    <string name="inputtext">Please Input Text</string>
+
+    <string name="addr">Address</string>
+    <string name="old_v">Old value</string>
+    <string name="new_v">New value</string>
+
+    <string name="mainmenu">MainMenu</string>
+    <string name="maininfo">MainInfo</string>
+    <string name="ok">ok</string>
+    <string name="copyright">Copyright by SUNUP ver1.00</string>
+    <string name="value0">00</string>
+    <string name="addr0">00000000</string>
+
+
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="pageup">Pageup</string>
+    <string name="pagedown">Pagedown</string>
+
+
+    <string name="inputaddr">Addr:</string>
+    <string name="inputsize">Size:</string>
+
+
+    <string name="keyA">A</string>
+    <string name="keyB">B</string>
+    <string name="keyC">C</string>
+    <string name="keyD">D</string>
+    <string name="keyE">E</string>
+    <string name="keyF">F</string>
+    <string name="key1">1</string>
+    <string name="key2">2</string>
+    <string name="key3">3</string>
+    <string name="key4">4</string>
+    <string name="key5">5</string>
+    <string name="key6">6</string>
+    <string name="key7">7</string>
+    <string name="key8">8</string>
+    <string name="key9">9</string>
+    <string name="key0">0/clear</string>
+
+
+
+
+
+    <string name="Time">Time</string>
+    <string name="Code">Code</string>
+    <string name="Status">Status</string>
+    <string name="SUPPDATA">SUPPDATA</string>
+
+    <string name="Time_v">00-00-00 00:00:00</string>
+    <string name="Code_v">0000</string>
+    <string name="Status_v">00 00 00 00 00 00 00</string>
+    <string name="SUPPDATA_v">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</string>
+
+
+
+
+    <string name="keyerr">All Error</string>
+    <string name="keydel">DEL</string>
+    <string name="keyfileout">File out</string>
+
+
+    <string name="fileadd">File Add</string>
+    <string name="chosetime">Chosetime</string>
+    <string name="chosedate">Chosedate</string>
+    <string name="timedate">Time Date</string>
+
+    <string name="times">Times:</string>
+    <string name="password">Password:</string>
+    <string name="clpwbutton">CLPW</string>
+
+
+
+
+
+    <!--get device yyid-->
+    <string name="get_id">Get ID</string>
+    <string name="check_lisence">Check Lisence</string>
+    <string name="device_id_hint">Get ID From Here</string>
+    <string name="lisence_hint">Input Lisence Here</string>
+
+    <string name="pus">PUS:</string>
+    <string name="pum">PUM:</string>
+    <string name="job">JOB:</string>
+    <string name="jobdate">JOB Date:</string>
+    <string name="getinfo">Get Version Info:</string>
+
+
+
+
+
+
+    <!--get all error-->
+    <string name="all_err">All Err</string>
+    <string name="del">Del</string>
+    <string name="fill_out">Export</string>
+
+
+
+
+
+    <!--Job data-->
+    <string name="add_file">Import</string>
+
+
+
+    <!--sync time-->
+    <string name="current_time">Current</string>
+    <string name="upload_time">Upload</string>
+    <string name="download_time">Download</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_time">Set Time</string>
+
+
+    <string name="get_version">Get Version Info</string>
+
+
+</resources>
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    android:background="@drawable/background"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" 
+    android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--line info -->
+    <LinearLayout   
+        android:orientation="horizontal"  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content"  
+        >
+        <TextView   
+            android:text="@string/Time"  
+            android:gravity="center"  
+            android:background="#33a1c9"  
+            android:layout_width="0dp"  
+            android:layout_height="fill_parent"  
+            android:textSize="20dp"
+            android:layout_weight="3"/>   
+        <TextView   
+            android:text="@string/Code"  
+            android:gravity="center"  
+            android:background="#33a1c9"  
+            android:layout_width="0dp"  
+            android:layout_height="fill_parent"  
+            android:textSize="20dp"
+            android:layout_weight="1"/>
+        <TextView 
+            android:text="@string/Status"  
+            android:gravity="center"  
+            android:background="#33a1c9"  
+            android:layout_width="0dp"  
+            android:layout_height="fill_parent"  
+            android:textSize="20dp"
+            android:layout_weight="3"/>   
+        <TextView 
+            android:text="@string/SUPPDATA"  
+            android:gravity="center"  
+            android:background="#33a1c9"  
+            android:layout_width="0dp"  
+            android:layout_height="fill_parent"  
+            android:textSize="20dp"
+            android:layout_weight="6"/>   
+    </LinearLayout>
+
+
+<!--listview -->
+    <ListView android:layout_width="fill_parent" 
+              android:layout_height="0dp" 
+              android:id="@+id/pus_error_data_listview"
+              android:fadingEdge="vertical"
+              android:layout_weight="6"
+          />
+
+    <TextView   
+        android:layout_width="fill_parent"  
+        android:layout_height="2dp"  
+    />  
+
+
+<!--button -->
+    <LinearLayout
+        android:orientation="vertical"  
+        android:layout_width="fill_parent"  
+        android:layout_height="0dp"  
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1"
+    >
+
+        <!--upload addr -->
+        <LinearLayout   
+            android:orientation="horizontal"  
+            android:layout_width="fill_parent"  
+            android:layout_height="0dp"  
+            android:layout_weight="1"
+        >
+            <Button
+                android:id="@+id/all_error"
+                android:layout_width="0dp" 
+                android:layout_height="fill_parent" 
+                android:background="#ffffff"  
+                android:text="@string/keyerr"
+                android:layout_weight="1"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+            />
+ 
+            <Button
+                android:id="@+id/del"
+                android:layout_width="0dp" 
+                android:layout_height="fill_parent" 
+                android:background="#ffffff"  
+                android:text="@string/keydel"
+                android:layout_weight="1" 
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+            />
+
+            <Button
+                android:id="@+id/file_out"
+                android:layout_width="0dp" 
+                android:layout_height="fill_parent" 
+                android:background="#ffffff"  
+                android:text="@string/keyfileout"
+                android:layout_weight="1"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+            />
+        </LinearLayout>  
+    </LinearLayout>  
+</LinearLayout>
+

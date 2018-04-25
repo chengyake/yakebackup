@@ -1,0 +1,78 @@
+
+
+
+使用反馈，形成坑点，做收敛点
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+make inputs simple:
+stocks:voice ware:shou
+
+
+g++ HelloWorld.cpp -I /home/chengyake/AMD/AMDAPPSDK-3.0/include/   -L/home/chengyake/AMD/AMDAPPSDK-3.0/lib/x86_64/ -lOpenCL
+
+
+
+
+
+
+
+
+test plan_D at 20160510162300:
+------------------------------
+level 1 pass
+level 2 pass
+
+
+
+1 -> 1
+1 -> 2
+2 -> 1
+1 -> -2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

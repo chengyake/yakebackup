@@ -1,0 +1,11 @@
+
+AUX_SOURCE_DIRECTORY(. DIR_SRCS)
+
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/out/bin)  
+
+
+
+ADD_EXECUTABLE(none ${DIR_SRCS})
+
+TARGET_LINK_LIBRARIES(none libOpenCL.so.1 libnone_utils.a libpthread.so.1)
+

@@ -1,0 +1,59 @@
+前提：
+
+训练完成的逻辑集合应远大于样本。
+
+one var adjust or chose all logic, such as "and", "or", "not".
+
+
+
+
+
+
+
+
+
+
+
+arch:
+
+yuan: one kind :sum
+data: +-, but input +
+varp: +-, random 
+
+
+
+
+
+1.core opencl
+2.core others
+3.data src
+4.all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stocks:voice ware:shou
+
+
+g++ HelloWorld.cpp -I /home/chengyake/AMD/AMDAPPSDK-3.0/include/   -L/home/chengyake/AMD/AMDAPPSDK-3.0/lib/x86_64/ -lOpenCL
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+
+
+
+
+
+int user_input_algo_func(struct yuan_t *mp) {
+
+    //fill data into input node by some algo
+
+    return 0;
+}
+
+
+
+int user_output_algo_func(struct yuan_t *mp) {
+
+
+
+}
+
+int user_output_trigger_feedback_func(struct yuan_t *mp) {
+
+
+}
+
+
+int user_feedback_algo_func(struct yuan_t *mp) {
+
+}
